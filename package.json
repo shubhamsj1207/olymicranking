@@ -1,5 +1,5 @@
 {
-  "name": "mens100m",
+  "name": "olumic",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "joi": "^17.13.3",
-    "mongoose": "^8.5.4"
+    "mongoose": "^8.5.4",
+    "nodemon": "^2.0.9"
   }
 }

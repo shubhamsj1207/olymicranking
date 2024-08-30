@@ -22,7 +22,6 @@ router.post("/addMenRecords",async(req,res)=>{
 })
 
 
-
 //we will create a get mothod
 router.get("/getMens",async(req,res)=>{
     try{
